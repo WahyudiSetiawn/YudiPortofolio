@@ -6,7 +6,6 @@ export default function Contact()
 {
     return(
         <div>
-            <h1>Contact</h1>
             <ul>
                 <li><SiGmail></SiGmail>nengahwahyudi90@gmail.com</li>
                 <li><SiWhatsapp></SiWhatsapp>085238931969</li>
